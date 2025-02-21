@@ -1,6 +1,6 @@
 # Exemplo de Aula Prática: CI/CD
 
-## Descrição
+## Descrição para Mesclar
 
 Este repositório contém um exemplo de implementação de **Integração Contínua (CI)** e **Entrega Contínua (CD)**, utilizado para demonstrar como automatizar o processo de build, testes e deploy de uma aplicação. O objetivo desta aula prática é fornecer um entendimento básico sobre como essas práticas ajudam no desenvolvimento de software moderno, melhorando a qualidade e a velocidade de entrega.
 
